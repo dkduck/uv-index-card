@@ -1,0 +1,17 @@
+{
+  "common": {
+    "version": "Version",
+    "invalid_configuration": "Invalid configuration",
+    "show_warning": "Vis Advarsel",
+    "show_error": "Vis Fejl",
+    "uv_index": "UV Index",
+    "uv_risk": "UV Risiko"
+  },
+  "uv_levels": {
+    "low": "Lav",
+    "moderate": "Moderat",
+    "high": "Høj",
+    "very_high": "Meget Høj",
+    "extreme": "Ekstrem"
+  }
+}
